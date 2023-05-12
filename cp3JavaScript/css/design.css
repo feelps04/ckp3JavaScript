@@ -1,0 +1,23 @@
+/* CSS para o slideshow */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+
+  .mySlides {
+    display: none;
+  }
+
+  .slideshow-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  /* CSS para o texto */
+  .welcome-text {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+  }
+  
